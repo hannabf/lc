@@ -1,0 +1,8 @@
+# Chapter 1-8 Responses
+## New Things / Surprising
+- Not entirely new since it was briefly discussed in our first class, but the epmphasis on transparency and the fact that everything is being shown in real time makes live coding not only exciting to experience, but inspiring to explore. The learning *is* the art, love the phrase "thinking in public." It in no way feels like a closed practice, and is open to everyone: experienced coders, engineers, musicians, visual artists, and complete newbies are all encouraged to join this wonderfully expressive artform.
+- I've learned in the past a bit about how far back electronic music went, but I feel like this is the first time I've really comprehended how much coding plays into that. Which, duh of course, but I never realized things like how long it was before synthesised code could actually produce sound in real time.
+
+## Not New / Not Surprising
+- Live coding being seen as a primarily imporvisatory medium makes a lot of sense when you realize how integral the showing of the process is, and I think it adds another layer that you're not only improvising an entire piece by yourself, but you're tangibly showing every part of your background that lead to your decisions. If you're improvising a jazz solo, the audience can't see the parts of your brain that remember that one lick you transcribed years ago, but everyone can see the exact commands you use to make certain things happen.
+- Technology always advances faster than humans know how to deal with, so it was interesting to see workarounds of how coded music was performed before venues or computers could even handle what was happening.
