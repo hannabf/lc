@@ -1,0 +1,24 @@
+d1 $ s "[hh*16?, ~ ~ sd ~, 909!4]"
+  # djf 0.45
+  # squiz "0.9"
+  # shape "0.5"
+  # room "0.75"
+  # gain 0.9
+
+
+d2 $ s "baa"
+  # squiz "3"
+  # lbrick "0.75"
+  # leslie "1"
+  # djf 0.4
+  # room 0.6
+  # gain 0.8
+
+
+d3 $ n "0 2 6 1 0 2 0 1" # sound "bleep"
+  # detune 9
+  # decay "[1 0.2]/4"
+  # pan (slow 10 sine)
+  # gain 0.75
+
+hush
